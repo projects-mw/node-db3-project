@@ -99,3 +99,9 @@ Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
+## recordings
+
+[jason 18](https://youtu.be/dL7AvrUIZw0)
+[luis 31](https://youtu.be/5I0DMK-BzOY)
+[jason 14](https://youtu.be/0DuTaEiJJac)
+[jason 8](https://youtu.be/ZaEWB61O9mA)
